@@ -7,12 +7,15 @@
 
 # This is a simple example for a custom action which utters "Hello World!"
 
-import requests
-import json
 import os
-from typing import Any, Text, Dict, List
+import json
+import requests
+from dotenv import load_dotenv
 from rasa_sdk import Action, Tracker
+from typing import Any, Text, Dict, List
 from rasa_sdk.executor import CollectingDispatcher
+
+load_dotenv()
 
 class ActionCallPokemonAPI(Action):
     
