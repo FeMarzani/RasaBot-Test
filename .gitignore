@@ -140,6 +140,10 @@ terraform.tfstate
 terraform.tfstate.backup
 .terraform
 
-#Teste event serverless function
+# Teste event serverless function
 test
 test.py
+
+# Removing Rasa directory and models from rasa. 
+.rasa/
+models/
