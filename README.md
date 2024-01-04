@@ -35,6 +35,7 @@ Já a intenção da API, utilizou-se a integração com a API do OpenAI (Chat GP
 ```
 
 ### 2️⃣ Demonstração
+![preview](https://github.com/FeMarzani/RasaBot-Test/assets/107329291/38ea4402-0251-4183-83af-40a280822fce)
 
 
 ### 3️⃣ Como Utilizar
